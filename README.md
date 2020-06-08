@@ -18,7 +18,7 @@ MARCO TEÓRICO
 Ley de voltajes de Kirchhoff
 La ley de voltajes de Kirchhoff nos dice que la sumatoria de voltajes en un camino cerrado es igual a cero, es decir, la suma de los aumentos y caídas de tensión es igual a cero.
 
-https://github.com/DavHino/InformeLaboratorio/blob/master/img/f1.PNG?raw=true
+
 
 
 Ley de corrientes de Kirchhoff
