@@ -1,7 +1,7 @@
 # Informe N°1 LEYES DE KIRCHHOFF 
 
-AUTORES: DAVID HINOJOSA
-         JAVIER DELGADO
+AUTORES: DAVID HINOJOSA,
+         JAVIER DELGADO,
          JULIO ROSERO
 	 
 PLANTEAMIENTO DE PROBLEMA
@@ -18,8 +18,9 @@ MARCO TEÓRICO
 Ley de voltajes de Kirchhoff
 La ley de voltajes de Kirchhoff nos dice que la sumatoria de voltajes en un camino cerrado es igual a cero, es decir, la suma de los aumentos y caídas de tensión es igual a cero.
 
-f1.png
+https://github.com/DavHino/InformeLaboratorio/blob/master/img/f1.PNG?raw=true
 
+InformeLaboratorio/blob/master/img/f1.PNG
 
 Ley de corrientes de Kirchhoff
 La ley de corrientes de Kirchhoff nos dice que la suma de las corrientes que ingresan a un nodo es igual a la suma de las corrientes que salen de él, por lo tanto:
