@@ -4,21 +4,21 @@ AUTORES: DAVID HINOJOSA,
          JAVIER DELGADO,
          JULIO ROSERO
 	 
-PLANTEAMIENTO DE PROBLEMA
+## PLANTEAMIENTO DE PROBLEMA
 
 El problema que significa poder medir diferentes magnitudes en un circuito es esencial para elaborar un análisis correcto y así poder evitar cortocircuitos o fallas en el funcionamiento del circuito eléctrico, por ello es necesario saber cómo hacerlo tanto en la teoría como en la práctica, con la intención de comparar ambos datos, para ello se requiere conocer la función que cumple cada elemento en el circuito, las fórmulas a utilizar y los instrumentos que se usan para medir las diferentes magnitudes.
 
-OBJETIVOS
+## OBJETIVOS
 -Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 de Kirchhoff de Corrientes.
 -Medir y registrar las corrientes y voltajes de los elementos del circuito.
 -Determinar el porcentaje de error de los datos medidos experimentalmente.
 
-MARCO TEÓRICO
+## MARCO TEÓRICO
 Ley de voltajes de Kirchhoff
 La ley de voltajes de Kirchhoff nos dice que la sumatoria de voltajes en un camino cerrado es igual a cero, es decir, la suma de los aumentos y caídas de tensión es igual a cero.
-https://github.com/DavHino/InformeLaboratorio/blob/master/img/f1.PNG
-https://raw.githubusercontent.com/DavHino/InformeLaboratorio/master/img/f1.png
+
+![f1](https://user-images.githubusercontent.com/64505672/83993005-c43e9880-a917-11ea-859c-14703f357ff0.PNG)
 
 InformeLaboratorio/img/f1.PNG
 
