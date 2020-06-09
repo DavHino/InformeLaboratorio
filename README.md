@@ -11,7 +11,9 @@ El problema que significa poder medir diferentes magnitudes en un circuito es es
 ## 2.OBJETIVOS
 -Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 de Kirchhoff de Corrientes.
+
 -Medir y registrar las corrientes y voltajes de los elementos del circuito.
+
 -Determinar el porcentaje de error de los datos medidos experimentalmente.
 
 ## 3.MARCO TEÓRICO
