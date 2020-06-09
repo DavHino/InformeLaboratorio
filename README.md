@@ -9,12 +9,10 @@ AUTORES: DAVID HINOJOSA,
 El problema que significa poder medir diferentes magnitudes en un circuito es esencial para elaborar un análisis correcto y así poder evitar cortocircuitos o fallas en el funcionamiento del circuito eléctrico, por ello es necesario saber cómo hacerlo tanto en la teoría como en la práctica, con la intención de comparar ambos datos, para ello se requiere conocer la función que cumple cada elemento en el circuito, las fórmulas a utilizar y los instrumentos que se usan para medir las diferentes magnitudes.
 
 ## 2.OBJETIVOS
--Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
+- Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 de Kirchhoff de Corrientes.
 
--Medir y registrar las corrientes y voltajes de los elementos del circuito.
-
--Determinar el porcentaje de error de los datos medidos experimentalmente.
+- Medir y registrar las corrientes y voltajes de los elementos del circuito.
 
 ## 3.MARCO TEÓRICO
 Ley de voltajes de Kirchhoff
@@ -133,26 +131,13 @@ Se registró los valores de entrada y salida de corriente en cada nodo para veri
 
 
 ## 7.CONCLUSIONES
-
--Concluimos que el  porcentaje de error es muy pequeño en relación a las corrientes que se obtuvieron de forma  analítica con las     medidas, esto se  debe a que las resistencias poseen un porcentaje muy pequeño de error, especificado en la última banda de color de   las resistencias, conocida como tolerancia.
+- Concluimos que el  porcentaje de error es muy pequeño en relación a las corrientes que se obtuvieron de forma  analítica con las     medidas, esto se  debe a que las resistencias poseen un porcentaje muy pequeño de error, especificado en la última banda de color de   las resistencias, conocida como tolerancia.
  
--Se puede concluir que se cumpe la Ley de Kirchhoff.  La corriente I1= 2.050mA medida , que entra en el segundo nodo  es experimentalmente igual a la sumatoria de las corrientes  I2=1,090 e I3=0.965 que sale por el mismo nodo con cierto grado de error, debido a la tolerancia. 
+- Se puede concluir que se cumpe la Ley de Kirchhoff.  La corriente I1= 2.050mA medida , que entra en el segundo nodo  es experimentalmente igual a la sumatoria de las corrientes  I2=1,090 e I3=0.965 que sale por el mismo nodo con cierto grado de error, debido a la tolerancia. 
 
--Se concluyó que se cumple la Ley de voltajes de Kirchhoff. Las sumatorias de voltajes en la malla uno es igual a 0, y además se comprobó que en el VR2=4.250 Y Veq= VR3+VR4=2.120+2.120=4.250 poseen el mismo voltaje , esto se debe a que se encuentran en paralelo.
+- Se concluyó que se cumple la Ley de voltajes de Kirchhoff. Las sumatorias de voltajes en la malla uno es igual a 0, y además se comprobó que en el VR2=4.250 Y Veq= VR3+VR4=2.120+2.120=4.250 poseen el mismo voltaje , esto se debe a que se encuentran en paralelo.
 
-## 8.RECOMENDACIONES
 
--Fijarnos bien en el momento de tomar las intensidades y los voltajes ya que podemos obtener valores erróneos.
-
--Tener muy en cuenta la disposición de los nodos en el protoboard, pues esto nos puede llegar a traer problemas al armar el circuito.
-
--Armar el circuito de una forma ordenada para evitar confusiones al medir la intensidad y corriente.
-
-## 9.BIBLIOGRAFÍA
-
--Conejo,A.(2004), Fundamentos de circuitos eléctricos (3ra Edición), Capítulo 1-2.
-
--Edminister,N.(1997), Circuitos Eléctricos, Mc Graw Hill.
 
 
 
