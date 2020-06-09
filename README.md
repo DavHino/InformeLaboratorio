@@ -75,35 +75,52 @@ Dentro de la simulación digital, se utilizan dos multímetros para revisar la c
 ## 5.LISTA DE COMPONENTES
 
 A. Fuente de voltaje de C.D.
+
 ![chrome_07b7jrNBY2](https://user-images.githubusercontent.com/66037763/84103508-d3394f80-a9d8-11ea-861e-163c90ef5711.png)
 
+
 B. Multímetros digitales.
+
 ![chrome_3Ed0YF4Utg](https://user-images.githubusercontent.com/66037763/84103516-df251180-a9d8-11ea-8ef0-96a79e7388c9.png)
 
+
 C. Resistor de 1 kΩ
+
 ![chrome_G0y8jghXJN](https://user-images.githubusercontent.com/66037763/84103526-e8ae7980-a9d8-11ea-9c34-79ae873553b5.png)
 
+
 D. 2 Resistores de 2.2 kΩ
+
 ![chrome_fLJVs9jNbq](https://user-images.githubusercontent.com/66037763/84103538-f2d07800-a9d8-11ea-8747-ba3cf24587e0.png)
 
+
 E. Resistor de 1.8 kΩ
+
 ![chrome_lZykOCQLAD](https://user-images.githubusercontent.com/66037763/84103595-23b0ad00-a9d9-11ea-90fd-4d7a3a0c9261.png)
 
+
 F. Resistor de 3.9 kΩ
+
 ![chrome_lijET3jDPF](https://user-images.githubusercontent.com/66037763/84103614-2e6b4200-a9d9-11ea-967d-cecef546d9ae.png)
 
+
 G. Protoboard
+
 ![chrome_srTJqrAZuW](https://user-images.githubusercontent.com/66037763/84103622-39be6d80-a9d9-11ea-97a8-bc19d54bc35a.png)
 
+
 H. Cables conectores
+
 ![chrome_snUk7gbfOw](https://user-images.githubusercontent.com/66037763/84103634-43e06c00-a9d9-11ea-8f20-a64a838ca2b3.png)
+
 
 
 ## 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 Se tiene el circuito propuesto y se procedió a realizar las mediciones de caída de voltaje y la corriente que pasa por cada resistencia.
 
 ![chrome_eaEaMMkfFP](https://user-images.githubusercontent.com/66037763/84103939-0c25f400-a9da-11ea-83fc-4ec0120162cc.png)
-Figura 5. Circuito base el cual provee información de la posición y valor de cada una de las resistencias y de la fuente
+
+	Figura 5. Circuito base el cual provee información de la posición y valor de cada una de las resistencias y de la fuente
 
 Se obtuvo los valores medidos y calculados y se registró en la siguiente tabla.
 ![chrome_giXZYeZdOV](https://user-images.githubusercontent.com/66037763/84104021-455e6400-a9da-11ea-81de-13c58f85c8ac.png)
