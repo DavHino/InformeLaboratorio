@@ -150,8 +150,5 @@ Se registró los valores de entrada y salida de corriente en cada nodo para veri
 
 -M.Sadiku, C.Alexander (2004), Fundamentos de circuitos eléctricos (3ra Edición).
 
--Edminister, N.(1997), Circuitos Eléctricos, Mc Graw Hill.
-
-
 
 
