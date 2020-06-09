@@ -129,10 +129,7 @@ Se registró los valores de Incremento y caída de tensión en en cada trayector
 Se registró los valores de entrada y salida de corriente en cada nodo para verificar la Ley de corrientes de Kirchhoff.
 ![chrome_e4YsN5Uo2V](https://user-images.githubusercontent.com/66037763/84104053-56a77080-a9da-11ea-9df5-6b037f82a828.png)
 ## 7.CRONOGRAMA
-
-(https://user-images.githubusercontent.com/66037557/84106422-b30d8e80-a9e0-11ea-8c6b-8a4a6c15d53d.jpg)
-
-
+![0001](https://user-images.githubusercontent.com/66037557/84106554-18617f80-a9e1-11ea-9240-1ae827bf61fe.jpg)
 ## 8.CONCLUSIONES
 - Concluimos que el  porcentaje de error es muy pequeño en relación a las corrientes que se obtuvieron de forma  analítica con las     medidas, esto se  debe a que las resistencias poseen un porcentaje muy pequeño de error, especificado en la última banda de color de   las resistencias, conocida como tolerancia.
  
