@@ -92,11 +92,11 @@ Dentro de la simulación digital, se utilizan dos multímetros para revisar la c
 	
 	
 ## 7.CONCLUSIONES
-A. Concluimos que el  porcentaje de error es muy pequeño en relación a las corrientes que se obtuvieron de forma  analítica con las     medidas, esto se  debe a que las resistencias poseen un porcentaje muy pequeño de error, especificado en la última banda de color de   las resistencias, conocida como tolerancia.
+-Concluimos que el  porcentaje de error es muy pequeño en relación a las corrientes que se obtuvieron de forma  analítica con las     medidas, esto se  debe a que las resistencias poseen un porcentaje muy pequeño de error, especificado en la última banda de color de   las resistencias, conocida como tolerancia.
  
-B. Se puede concluir que se cumpe la Ley de Kirchhoff.  La corriente I1= 2.050mA medida , que entra en el segundo nodo  es experimentalmente igual a la sumatoria de las corrientes  I2=1,090 e I3=0.965 que sale por el mismo nodo con cierto grado de error, debido a la tolerancia. 
+-Se puede concluir que se cumpe la Ley de Kirchhoff.  La corriente I1= 2.050mA medida , que entra en el segundo nodo  es experimentalmente igual a la sumatoria de las corrientes  I2=1,090 e I3=0.965 que sale por el mismo nodo con cierto grado de error, debido a la tolerancia. 
 
-C. Se concluyó que se cumple la Ley de voltajes de Kirchhoff. Las sumatorias de voltajes en la malla uno es igual a 0, y además se comprobó que en el VR2=4.250 Y Veq= VR3+VR4=2.120+2.120=4.250 poseen el mismo voltaje , esto se debe a que se encuentran en paralelo.
+-Se concluyó que se cumple la Ley de voltajes de Kirchhoff. Las sumatorias de voltajes en la malla uno es igual a 0, y además se comprobó que en el VR2=4.250 Y Veq= VR3+VR4=2.120+2.120=4.250 poseen el mismo voltaje , esto se debe a que se encuentran en paralelo.
 
 
 
