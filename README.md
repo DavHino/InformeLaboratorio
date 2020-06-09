@@ -72,49 +72,55 @@ Figura 4. Dibujo del circuito resistivo mixto, detallando la tensión (azul) que
 
 Dentro de la simulación digital, se utilizan dos multímetros para revisar la corriente y tensión de cada una de las resistencias y sus respectivos nodos. Se debe tener en cuenta el conectar en paralelo al multímetro cuando se requiera encontrar voltaje y en serie al estar buscando amperaje (corriente).
 
-## 4.LISTA DE COMPONENTES
+## 5.LISTA DE COMPONENTES
 
-	A. Fuente de voltaje de C.D.
-	
-	B. Multímetros digitales.
-	
-	C. Resistor de 1 kΩ
-	
-	D. 2 Resistores de 2.2 kΩ
-	
-	E. Resistor de 1.8 kΩ
-	
-	F. Resistor de 3.9 kΩ
-	
-	G. Protoboard
-	
-	H. Cables conectores
-	
-	
+A. Fuente de voltaje de C.D.
+![chrome_07b7jrNBY2](https://user-images.githubusercontent.com/66037763/84103508-d3394f80-a9d8-11ea-861e-163c90ef5711.png)
+
+B. Multímetros digitales.
+![chrome_3Ed0YF4Utg](https://user-images.githubusercontent.com/66037763/84103516-df251180-a9d8-11ea-8ef0-96a79e7388c9.png)
+
+C. Resistor de 1 kΩ
+![chrome_G0y8jghXJN](https://user-images.githubusercontent.com/66037763/84103526-e8ae7980-a9d8-11ea-9c34-79ae873553b5.png)
+
+D. 2 Resistores de 2.2 kΩ
+![chrome_fLJVs9jNbq](https://user-images.githubusercontent.com/66037763/84103538-f2d07800-a9d8-11ea-8747-ba3cf24587e0.png)
+
+E. Resistor de 1.8 kΩ
+![chrome_lZykOCQLAD](https://user-images.githubusercontent.com/66037763/84103595-23b0ad00-a9d9-11ea-90fd-4d7a3a0c9261.png)
+
+F. Resistor de 3.9 kΩ
+![chrome_lijET3jDPF](https://user-images.githubusercontent.com/66037763/84103614-2e6b4200-a9d9-11ea-967d-cecef546d9ae.png)
+
+G. Protoboard
+![chrome_srTJqrAZuW](https://user-images.githubusercontent.com/66037763/84103622-39be6d80-a9d9-11ea-97a8-bc19d54bc35a.png)
+
+H. Cables conectores
+![chrome_snUk7gbfOw](https://user-images.githubusercontent.com/66037763/84103634-43e06c00-a9d9-11ea-8f20-a64a838ca2b3.png)
+
+
+## 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+Se tiene el circuito propuesto y se procedió a realizar las mediciones de caída de voltaje y la corriente que pasa por cada resistencia.
+
+![chrome_eaEaMMkfFP](https://user-images.githubusercontent.com/66037763/84103939-0c25f400-a9da-11ea-83fc-4ec0120162cc.png)
+Figura 5. Circuito base el cual provee información de la posición y valor de cada una de las resistencias y de la fuente
+
+Se obtuvo los valores medidos y calculados y se registró en la siguiente tabla.
+![chrome_giXZYeZdOV](https://user-images.githubusercontent.com/66037763/84104021-455e6400-a9da-11ea-81de-13c58f85c8ac.png)
+
+Se registró los valores de Incremento y caída de tensión en en cada trayectoria, para verificar la Ley de voltajes de Kirchhoff.
+![chrome_Nvg0gH2WP3](https://user-images.githubusercontent.com/66037763/84104036-4e4f3580-a9da-11ea-8c4b-eabecab391d4.png)
+
+Se registró los valores de entrada y salida de corriente en cada nodo para verificar la Ley de corrientes de Kirchhoff.
+![chrome_e4YsN5Uo2V](https://user-images.githubusercontent.com/66037763/84104053-56a77080-a9da-11ea-9df5-6b037f82a828.png)
+
+
 ## 7.CONCLUSIONES
-
 -Concluimos que el  porcentaje de error es muy pequeño en relación a las corrientes que se obtuvieron de forma  analítica con las     medidas, esto se  debe a que las resistencias poseen un porcentaje muy pequeño de error, especificado en la última banda de color de   las resistencias, conocida como tolerancia.
  
 -Se puede concluir que se cumpe la Ley de Kirchhoff.  La corriente I1= 2.050mA medida , que entra en el segundo nodo  es experimentalmente igual a la sumatoria de las corrientes  I2=1,090 e I3=0.965 que sale por el mismo nodo con cierto grado de error, debido a la tolerancia. 
 
 -Se concluyó que se cumple la Ley de voltajes de Kirchhoff. Las sumatorias de voltajes en la malla uno es igual a 0, y además se comprobó que en el VR2=4.250 Y Veq= VR3+VR4=2.120+2.120=4.250 poseen el mismo voltaje , esto se debe a que se encuentran en paralelo.
-
-## 8.RECOMENDACIONES
-
--Fijarnos bien en el momento de tomar las intensidades y los voltajes ya que podemos obtener valores erróneos.
-
--Tener muy en cuenta la disposición de los nodos en el protoboard, pues esto nos puede llegar a traer problemas al armar el circuito.
-
--Armar el circuito de una forma ordenada para evitar confusiones al medir la intensidad y corriente.
-
-## 9.BIBLIOGRAFÍA
-
--M.Sadiku, C.Alexander (2004), Fundamentos de circuitos eléctricos (3ra Edición), Capítulo 1-2.
-
--Conejo, A.(2004), Circuitos eléctricos para la ingeniería, McGraw-Hill.
-
-## 10.ANEXOS
-
 
 
 
