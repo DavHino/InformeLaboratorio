@@ -120,7 +120,7 @@ Se tiene el circuito propuesto y se procedió a realizar las mediciones de caíd
 
 ![chrome_eaEaMMkfFP](https://user-images.githubusercontent.com/66037763/84103939-0c25f400-a9da-11ea-83fc-4ec0120162cc.png)
 
-	Figura 5. Circuito base el cual provee información de la posición y valor de cada una de las resistencias y de la fuente
+Figura 5. Circuito base el cual provee información de la posición y valor de cada una de las resistencias y de la fuente
 
 Se obtuvo los valores medidos y calculados y se registró en la siguiente tabla.
 ![chrome_giXZYeZdOV](https://user-images.githubusercontent.com/66037763/84104021-455e6400-a9da-11ea-81de-13c58f85c8ac.png)
