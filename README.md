@@ -70,8 +70,24 @@ Figura 4. Dibujo del circuito resistivo mixto, detallando la tensión (azul) que
 
 Dentro de la simulación digital, se utilizan dos multímetros para revisar la corriente y tensión de cada una de las resistencias y sus respectivos nodos. Se debe tener en cuenta el conectar en paralelo al multímetro cuando se requiera encontrar voltaje y en serie al estar buscando amperaje (corriente).
 
+## 4.LISTA DE COMPONENTES
 
-
+	A. Fuente de voltaje de C.D.
+	
+	B. Multímetros digitales.
+	
+	C. Resistor de 1 kΩ
+	
+	D. 2 Resistores de 2.2 kΩ
+	
+	E. Resistor de 1.8 kΩ
+	
+	F. Resistor de 3.9 kΩ
+	
+	G. Protoboard
+	
+	H. Cables conectores
+	
 
 
 
