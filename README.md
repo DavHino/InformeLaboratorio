@@ -148,7 +148,8 @@ Se registró los valores de entrada y salida de corriente en cada nodo para veri
 
 ## 10.BIBLIOGRAFÍA
 
--M.Sadiku, C.Alexander (2004), Fundamentos de circuitos eléctricos (3ra Edición).
+-M.Sadiku, C.Alexander, Fundamentos de circuitos eléctricos (3ra Edición), 2004.
+-Allan, H.Robbins, Análisis de Circuitos. Teoría y práctica(4ta Edición), 2008.
 
-
+R. G. Gallager. Principles of Digital Communication. New York: Cambridge University Press, 2008.
 
